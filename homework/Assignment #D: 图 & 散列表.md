@@ -71,7 +71,7 @@ for num in data[2:]:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业13\1.png)
+![](../img/homework/assignmentD/1.png)
 
 
 
@@ -109,7 +109,7 @@ while True:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业13\2.png)
+![](../img/homework/assignmentD/2.png)
 
 
 
@@ -157,7 +157,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业13\3.png)
+![](../img/homework/assignmentD/3.png)
 
 
 
@@ -198,7 +198,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业13\4.png)
+![](../img/homework/assignmentD/4.png)
 
 
 
@@ -238,7 +238,7 @@ print(d[-1] if d[-1]!=float('inf') else -1)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业13\5.png)
+![](../img/homework/assignmentD/5.png)
 
 
 
@@ -279,7 +279,7 @@ print(ans)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业13\6.png)
+![](../img/homework/assignmentD/6.png)
 
 
 
