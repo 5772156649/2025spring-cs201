@@ -50,7 +50,7 @@ while 1:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业3\1.png)
+![](../img/homework/assignment3/1.png)
 
 
 
@@ -92,7 +92,7 @@ print(ans)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业3\2.png)
+![](../img/homework/assignment3/2.png)
 
 
 
@@ -131,7 +131,7 @@ while 1:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业3\3.png)
+![](../img/homework/assignment3/3.png)
 
 
 
@@ -168,7 +168,7 @@ print(num,mx)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业3\4.png)
+![](../img/homework/assignment3/4.png)
 
 
 
@@ -222,7 +222,7 @@ for _ in range(n):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业3\5.png)
+![](../img/homework/assignment3/5.png)
 
 
 
@@ -281,7 +281,7 @@ for _ in range(t):
 
 代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业3\6.png)
+![](../img/homework/assignment3/6.png)
 
 
 
