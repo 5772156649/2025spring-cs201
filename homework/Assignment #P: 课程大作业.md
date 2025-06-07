@@ -55,7 +55,7 @@ Updated 1141 GMT+8 May 27, 2025
 
 https://github.com/5772156649/2025spring-cs201
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\大作业\1.png)
+![](..\img\homework\assignmentP\1.png)
 
 
 
