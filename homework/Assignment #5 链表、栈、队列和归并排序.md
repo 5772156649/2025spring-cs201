@@ -59,7 +59,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业5\1.png)
+![](../img/homework/assignment5/1.png)
 
 
 
@@ -99,7 +99,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业5\2.png)
+![](../img/homework/assignment5/2.png)
 
 
 
@@ -149,7 +149,7 @@ class BrowserHistory:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业5\3.png)
+![](../img/homework/assignment5/3.png)
 
 
 
@@ -195,7 +195,7 @@ for _ in range(n):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业5\4.png)
+![](../img/homework/assignment5/4.png)
 
 
 
@@ -227,7 +227,7 @@ while 1:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业5\5.png)
+![](../img/homework/assignment5/5.png)
 
 
 
@@ -277,7 +277,7 @@ print(num)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业5\6.png)
+![](../img/homework/assignment5/6.png)
 
 
 
