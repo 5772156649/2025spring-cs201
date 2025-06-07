@@ -42,7 +42,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业8\1.png)
+![](../img/homework/assignment8/1.png)
 
 
 
@@ -84,7 +84,7 @@ visit(root)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业8\2.png)
+![](../img/homework/assignment8/2.png)
 
 
 
@@ -112,7 +112,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业8\3.png)
+![](../img/homework/assignment8/3.png)
 
 
 
@@ -145,7 +145,7 @@ while 1:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业8\4.png)
+![](../img/homework/assignment8/4.png)
 
 
 
@@ -182,7 +182,7 @@ postorder(s)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业8\5.png)
+![](../img/homework/assignment8/5.png)
 
 
 
@@ -239,7 +239,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业8\6.png)
+![](../img/homework/assignment8/6.png)
 
 
 
