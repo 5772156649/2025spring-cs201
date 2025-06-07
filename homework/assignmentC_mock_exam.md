@@ -44,7 +44,7 @@ print(max(lst,key=lambda x:x[1])[-1])
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业12\1.png)
+![](../img/homework/assignmentC/1.png)
 
 
 
@@ -68,7 +68,7 @@ print(comb(2*n+1,n)//(2*n+1))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业12\2.png)
+![](../img/homework/assignmentC/2.png)
 
 
 
@@ -102,7 +102,7 @@ for lst in q:print(' '.join(lst),end=' ')
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业12\3.png)
+![](../img/homework/assignmentC/3.png)
 
 ### M04084: 拓扑排序
 
@@ -141,7 +141,7 @@ while q:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业12\4.png)
+![](../img/homework/assignmentC/4.png)
 
 
 
@@ -184,7 +184,7 @@ print(ans)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业12\5.png)
+![](../img/homework/assignmentC/5.png)
 
 
 
@@ -217,7 +217,7 @@ print(dp(0,True))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业12\6.png)
+![](../img/homework/assignmentC/6.png)
 
 
 
