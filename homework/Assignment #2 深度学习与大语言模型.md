@@ -74,7 +74,7 @@ else:print("Error!")
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业2\1.png)
+![](../img/homework/assignment2/1.png)
 
 
 
@@ -110,7 +110,7 @@ for i in range(m+1-p):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业2\2.png)
+![](../img/homework/assignment2/2.png)
 
 
 
@@ -162,7 +162,7 @@ print(f"{x1:.9f}")
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业2\3.png)
+![](../img/homework/assignment2/3.png)
 
 
 
@@ -200,8 +200,7 @@ for i in range(m):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业2\4.png)
-
+![](../img/homework/assignment2/4.png)
 
 
 ### 04093: 倒排索引查询
@@ -240,7 +239,7 @@ for _ in range(m):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业2\5.png)
+![](../img/homework/assignment2/5.png)
 
 
 
