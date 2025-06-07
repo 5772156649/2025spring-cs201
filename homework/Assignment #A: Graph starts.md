@@ -80,7 +80,7 @@ print('\n'.join(map(lambda x:' '.join(map(str,x)),l)))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业10\1.png)
+![](../img/homework/assignmentA/1.png)
 
 
 
@@ -108,8 +108,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业10\2.png)
-
+![](../img/homework/assignmentA/2.png)
 
 
 ### LC17.电话号码的字母组合
@@ -141,7 +140,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业10\3.png)
+![](../img/homework/assignmentA/3.png)
 
 
 
@@ -178,7 +177,7 @@ for _ in range(int(input())):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业10\4.png)
+![](../img/homework/assignmentA/4.png)
 
 
 
@@ -224,7 +223,7 @@ else:print('NO')
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业10\5.png)
+![](../img/homework/assignmentA/5.png)
 
 
 
@@ -263,7 +262,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业10\6.png)
+![](../img/homework/assignmentA/6.png)
 
 
 
