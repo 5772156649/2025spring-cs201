@@ -59,7 +59,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业6\1.png)
+![](../img/homework/assignment6/1.png)
 
 
 
@@ -99,7 +99,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业6\2.png)
+![](../img/homework/assignment6/2.png)
 
 
 
@@ -124,7 +124,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业6\3.png)
+![](../img/homework/assignment6/3.png)
 
 
 
@@ -157,7 +157,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业6\4.png)
+![](../img/homework/assignment6/4.png)
 
 
 
@@ -194,7 +194,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业6\5.png)
+![](../img/homework/assignment6/5.png)
 
 
 
@@ -261,7 +261,7 @@ class LRUCache:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业6\6.png)
+![](../img/homework/assignment6/6.png)
 
 
 
