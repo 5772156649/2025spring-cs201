@@ -46,7 +46,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业4\1.png)
+![](../img/homework/assignment4/1.png)
 
 
 
@@ -87,7 +87,7 @@ print(s)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业4\2.png)
+![](../img/homework/assignment4/2.png)
 
 
 
@@ -121,7 +121,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业4\3.png)
+![](../img/homework/assignment4/3.png)
 
 
 
@@ -155,7 +155,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业4\4.png)
+![](../img/homework/assignment4/4.png)
 
 
 
@@ -196,7 +196,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业4\5.png)
+![](../img/homework/assignment4/5.png)
 
 
 
@@ -221,7 +221,7 @@ In the interactive widget:
 
 给出满足约束条件的<mark>截图</mark>，并说明学习到的概念和原理。
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业4\6.png)
+![](../img/homework/assignment4/6.png)
 
 看了教程，大概了解了从输入经过线性组合和激活函数计算得到输出的过程，也明白了各个过程的目的，但对于反向传播之类的具体算法还不了解。最后也就是按要求调了参数，训练后测试损失也就很快降到0.2以下了。
 
