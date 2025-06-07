@@ -55,7 +55,7 @@ Updated 1141 GMT+8 May 27, 2025
 
 https://github.com/5772156649/2025spring-cs201
 
-![](..\img\homework\assignmentP\1.png)
+![](../img/homework/assignmentP/1.png)
 
 
 
