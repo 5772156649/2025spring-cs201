@@ -50,7 +50,8 @@ while 1:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业3\1.png)
+![1](https://github.com/user-attachments/assets/845fa0ab-6daa-4019-9b6d-9bd84f7f7ee1)
+
 
 
 
