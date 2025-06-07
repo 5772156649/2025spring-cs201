@@ -65,7 +65,7 @@ print(f"{x//r}/{y//r}")
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](img/homework/assignment1/1.png)
+![](../img/homework/assignment1/1.png)
 
 
 
@@ -103,7 +103,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业1\2.png)
+![](../img/homework/assignment1/2.png)
 
 
 
@@ -142,7 +142,7 @@ print(l)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业1\3.png)
+![](../img/homework/assignment1/3.png)
 
 
 
@@ -181,7 +181,7 @@ for name in sorted(list(var.keys())):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业1\4.png)
+![](../img/homework/assignment1/4.png)
 
 
 
