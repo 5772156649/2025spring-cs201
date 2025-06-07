@@ -43,7 +43,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业9\1.png)
+![](../img/homework/assignment9/1.png)
 
 
 
@@ -78,7 +78,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业9\2.png)
+![](../img/homework/assignment9/2.png)
 
 
 
@@ -110,7 +110,7 @@ print(ans)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业9\3.png)
+![](../img/homework/assignment9/3.png)
 
 ### M05455: 二叉搜索树的层次遍历
 
@@ -154,7 +154,7 @@ while q:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业9\4.png)
+![](../img/homework/assignment9/4.png)
 
 
 
@@ -204,7 +204,7 @@ for _ in range(int(input())):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业9\5.png)
+![](../img/homework/assignment9/5.png)
 
 
 
@@ -268,7 +268,7 @@ while True:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业9\6.png)
+![](../img/homework/assignment9/6.png)
 
 
 
