@@ -64,7 +64,7 @@ for __ in range(int(input())):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业11\1.png)
+![](../img/homework/assignmentB/1.png)
 
 
 
@@ -100,8 +100,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业11\2.png)
-
+![](../img/homework/assignmentB/2.png)
 
 
 ### M22528:厚道的调分方法
@@ -138,7 +137,7 @@ print(l)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业11\3.png)
+![](../img/homework/assignmentB/3.png)
 
 
 
@@ -183,8 +182,7 @@ print("No" if counts==n else "Yes")
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业11\4.png)
-
+![](../img/homework/assignmentB/4.png)
 
 
 ### M05443:兔子与樱花
@@ -243,7 +241,7 @@ for _ in range(t):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业11\5.png)
+![](../img/homework/assignmentB/5.png)
 
 
 
@@ -296,7 +294,7 @@ else:print("fail")
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:\文件\北京大学\大一下课程\数据结构与算法\作业\作业11\6.png)
+![](../img/homework/assignmentB/6.png)
 
 
 
